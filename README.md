@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **web application development**
 
-- 💬 Ask me about **Cpp**
+- 💬 Ask me about **C AND CPP**
 
 - 📫 How to reach me **tamilarasanramesh1234@gmail.com**
 
