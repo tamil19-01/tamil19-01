@@ -16,6 +16,7 @@
 - ⚡ Fun fact **I am serious**
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/19tamilarasan
 <p align="left">
 </p>
 
