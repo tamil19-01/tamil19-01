@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on utilization of LLM model<br>👯 I’m looking to collaborate on optimization on LLM models <br>🤝 I’m looking for help with optimizer on LLM model<br>🌱 I’m currently learning CS50's AI<br>💬 Ask me about C++ and PYTHON<br>⚡ Fun fact person.
+🔭 I’m currently working on utilization of LLM model<br>👯 I’m looking to collaborate on optimization on LLM models <br>🤝 I’m looking for help with optimizer on LLM model<br>🌱 I’m completed learning CS50's AI<br>💬 Ask me about C++ and PYTHON<br>⚡ Fun fact person.
 
 
 ## 🌐 Socials:
