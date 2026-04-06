@@ -39,7 +39,7 @@
 * A fully responsive e-commerce storefront featuring product filtering and a modern UI.
 * **Key Features:** Dynamic product rendering, cart management, and seamless navigation.
 * **Tech:** React, JavaScript, CSS3.
-* 🌐 **[Live Demo](nykaa-clone-pied.vercel.app)** | 🔗 [View Code](https://github.com/tamil19-01/nykaa-clone)
+* 🌐 **[Live Demo](http://nykaa-clone-pied.vercel.app)** | 🔗 [View Code](https://github.com/tamil19-01/nykaa-clone)
 
 ### ☕ Starbucks Clone
 * Pixel-perfect UI reconstruction of the Starbucks web experience.
